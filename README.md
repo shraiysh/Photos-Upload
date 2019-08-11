@@ -1,5 +1,5 @@
 ### Photos Upload
-Helps uploading all photos from a directory on your system to google photos
+The purpose of this project is to help upload all image files inside a folder and all its sub-directories to Google photos. This was particularly useful for me when I was transferring my images from one account to another on Google Photos
 
 ## How to run
 
@@ -21,7 +21,6 @@ $ python3 main.py [folder-path]
 
 ## Fututre features
 1. Sync from Google photos to make sure that same photos are not uploaded twice
-2. Show percentage/progress-bar
 
 ## Contributions
 Sugesstions and contributions are always welcome. Please open an issue or submit a PR.
