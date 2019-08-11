@@ -1,3 +1,7 @@
 client_secret.json
 token.pickle
 success.json
+bin/
+
+*.swp
+*.gold
